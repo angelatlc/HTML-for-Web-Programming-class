@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+#leftie {
+    text-align: left;
+} 
+
+</style>
+
+</head>
+
+<!-- Pick 5 corporations and hunt down their current stock prices. Place them in a neatly arranged table with their name, symbol, last price, 52wk high, 52wk low and PE ratio. The end result should look like the following. Notice that he first column is aligned left and the rest are centered. -->
+
+
+<body>
+
+<table>
+
+<tr style="font-size:200%;"> 
+<th colspan="6">My tech stock picks</th>
+</tr>
+  
+<tr>
+	<th id="leftie">NAME</th>
+	<th>SYMBOL</th>
+	<th>CURRENT</th>
+	<th>52WK HI</th>
+	<th>52WK LO</th>
+	<th>P/E RATIO</th>
+</tr>
+
+<tr>
+	<td id="leftie">Gamestop</td>
+	<td>GME</td>
+	<td>15.15</td>
+	<td>12.20</td>
+	<td>22.37</td>
+	<td>43.00</td>
+</tr>
+
+<tr>
+	<td id="leftie">Raytheon</td>
+	<td>RTN</td>
+	<td>193.57</td>
+	<td>163.63</td>
+	<td>229.75</td>
+	<td>27.70</td>
+</tr>
+
+<tr>
+	<td id="leftie">Walt Disney</td>
+	<td>DIS</td>
+	<td>104.78</td>
+	<td>96.20</td>
+	<td>113.19</td>
+	<td>18.30</td>
+</tr>
+
+<tr>
+	<td id="leftie">La Z Boy</td>
+	<td>LZB</td>
+	<td>32.10</td>
+	<td>23.15</td>
+	<td>34.25</td>
+	<td>18.30</td>
+</tr>
+
+<tr>
+	<td id="leftie">Pearson</td>
+	<td>PSO</td>
+	<td>11.78</td>
+	<td>7.62</td>
+	<td>12.51</td>
+	<td>23.00</td>
+</tr>
+
+</table>
+
+<p>Data reflects market as of July 7, 2018</p>
+
+</body>
+
+</html>

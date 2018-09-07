@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 01<title>
+</head>
+
+<!-- Create an HTML document that displays the numbers 1 - 10, each number being a different color. -->
+
+<body>
+
+<p style="font-size:50px"> 
+
+<strong style="color:red">1</strong>  
+<strong style="color:skyblue">2</strong> 
+<strong style="color:yellow">3</strong> 
+<strong style="color:green">4</strong>
+<strong style="color:orange">5</strong>
+<strong style="color:purple">6</strong>
+<strong style="color:cyan">7</strong>
+<strong style="color:blue">8</strong>
+<strong style="color:indigo">9</strong>
+<strong style="color:violet">10</strong>
+
+</p>
+
+</body>
+
+
+<html>

@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 06<title>
+</head>
+
+<!-- Create links to four different pages on four different websites that should all open in a new window -->
+
+
+​<body>
+
+<p>Each link below will open in a new window.</p>
+<p><a href="https://www.uopeople.edu/" target="_blank">Website 1</a></p>
+<p><a href="https://www.usa.gov/" target="_blank">Website 2</a></p>
+<p><a href="https://www.facebook.com/" target="_blank">Website 3</a></p>
+<p><a href="https://twitter.com/" target="_blank">Website 4</a></p>
+
+</body>
+
+<html>

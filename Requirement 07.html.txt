@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 07<title>
+</head>
+
+<!-- Display five different images. Skip two lines between each image. Each image should have a title -->
+
+<body>
+
+<h1>Image 1: Grumpy Cat</h1>
+<p><img src="https://www.lifewire.com/thmb/HFtPfTU5uAiL_7hGx_zokBUKeeo=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tardarsauce-56a6a47d5f9b58b7d0e41bf6.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 2: Rick Roll</h1>
+<p><img src="https://www.lifewire.com/thmb/WzbvVZ_FkfGleIu9Hg5YPAflqLs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rick-Roll-5705167e5f9b581408bf21d1.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 3: Domo-Kun</h1>
+<p><img src="https://www.lifewire.com/thmb/0m33ypVydKYo163-KhC-LoPeWbI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DomoKun-5b03114dff1b780020a6bae7.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 4: Gangnam Style</h1>
+<p><img src="https://www.lifewire.com/thmb/EgGpMt18Cl5D9mK8_z9RK4IhvmA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gangumstyle-5b0311ff119fa8003767ac5f.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 5: Ermahgerd</h1>
+<p><img src="https://www.lifewire.com/thmb/Qu2-0TnLWe_dUltkGY-d9KI_TLM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4891ee6b17dd38553288a0ce7c8904d7-5b03186718ba0100377d00c6.jpg" width=50% height=auto></p>
+
+
+</body>
+
+
+<html>

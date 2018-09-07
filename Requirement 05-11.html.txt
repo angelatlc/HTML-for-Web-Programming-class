@@ -1,0 +1,152 @@
+﻿
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 05</title>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+#leftie {
+    text-align: left;
+} 
+
+</style>
+</head>
+
+<!-- Create a page with a link at the top of it that when clicked will jump all the way to the bottom of the page. At the bottom of the page there should be a link to jump back to the top of the page. -->
+
+<body>
+
+<p id="top"><a href="#bottom"><button type="button">Click here to go to the bottom!</button></a></p>
+
+<hr>
+
+<p>Each link below will open in a new window.</p>
+<p><a href="https://www.uopeople.edu/" target="_blank">Website 1</a></p>
+<p><a href="https://www.usa.gov/" target="_blank">Website 2</a></p>
+<p><a href="https://www.facebook.com/" target="_blank">Website 3</a></p>
+<p><a href="https://twitter.com/" target="_blank">Website 4</a></p>
+<hr>
+
+<h1>Image 1: Grumpy Cat</h1>
+<p><img src="https://www.lifewire.com/thmb/HFtPfTU5uAiL_7hGx_zokBUKeeo=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tardarsauce-56a6a47d5f9b58b7d0e41bf6.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 2: Rick Roll</h1>
+<p><img src="https://www.lifewire.com/thmb/WzbvVZ_FkfGleIu9Hg5YPAflqLs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rick-Roll-5705167e5f9b581408bf21d1.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 3: Domo-Kun</h1>
+<p><img src="https://www.lifewire.com/thmb/0m33ypVydKYo163-KhC-LoPeWbI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DomoKun-5b03114dff1b780020a6bae7.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 4: Gangnam Style</h1>
+<p><img src="https://www.lifewire.com/thmb/EgGpMt18Cl5D9mK8_z9RK4IhvmA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gangumstyle-5b0311ff119fa8003767ac5f.jpg" width=50% height=auto></p>
+<br/>
+<br/>
+<h1>Image 5: Ermahgerd</h1>
+<p><img src="https://www.lifewire.com/thmb/Qu2-0TnLWe_dUltkGY-d9KI_TLM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4891ee6b17dd38553288a0ce7c8904d7-5b03186718ba0100377d00c6.jpg" width=50% height=auto></p>
+
+<hr>
+
+<img src="https://www.lifewire.com/thmb/Fu49qYzwILx4IE-rSvICLLsCo60=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/doge-5b030bb6a474be0037aad803.jpg" width=200px height=200px border=2px>
+
+<hr>
+
+<p>Click on the image below to see it alone.</p>
+<a href="https://www.lifewire.com/thmb/fTln-QeIbBln-bpLSP9ps4JJPhs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/184074270-56a6a46a5f9b58b7d0e41b68.jpg"><img src="https://www.lifewire.com/thmb/fTln-QeIbBln-bpLSP9ps4JJPhs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/184074270-56a6a46a5f9b58b7d0e41b68.jpg" width="50%" height="auto"></a>
+
+<hr>
+
+<p>Click on the logo to go to google search engine.<p>
+ 
+<a href="https://www.google.com/" target="_blank"><img src="https://maxcdn.icons8.com/app/uploads/2016/10/Google-logo-1998.png" ></a>
+
+<hr>
+
+
+<table align="center">
+
+<tr style="font-size:200%;"> 
+<th colspan="6">My tech stock picks</th>
+</tr>
+  
+<tr>
+	<th id="leftie">NAME</th>
+	<th>SYMBOL</th>
+	<th>CURRENT</th>
+	<th>52WK HI</th>
+	<th>52WK LO</th>
+	<th>P/E RATIO</th>
+</tr>
+
+<tr>
+	<td id="leftie">Gamestop</td>
+	<td>GME</td>
+	<td>15.15</td>
+	<td>12.20</td>
+	<td>22.37</td>
+	<td>43.00</td>
+</tr>
+
+<tr>
+	<td id="leftie">Raytheon</td>
+	<td>RTN</td>
+	<td>193.57</td>
+	<td>163.63</td>
+	<td>229.75</td>
+	<td>27.70</td>
+</tr>
+
+<tr>
+	<td id="leftie">Walt Disney</td>
+	<td>DIS</td>
+	<td>104.78</td>
+	<td>96.20</td>
+	<td>113.19</td>
+	<td>18.30</td>
+</tr>
+
+<tr>
+	<td id="leftie">La Z Boy</td>
+	<td>LZB</td>
+	<td>32.10</td>
+	<td>23.15</td>
+	<td>34.25</td>
+	<td>18.30</td>
+</tr>
+
+<tr>
+	<td id="leftie">Pearson</td>
+	<td>PSO</td>
+	<td>11.78</td>
+	<td>7.62</td>
+	<td>12.51</td>
+	<td>23.00</td>
+</tr>
+
+</table>
+
+<p align="center">Data reflects market as of July 7, 2018</p>
+
+
+<hr>
+
+<p id="bottom"> <a href="#top"><button type="button">Click here to go to the top!</button></a></p>
+
+
+
+</body>
+
+
+</html>

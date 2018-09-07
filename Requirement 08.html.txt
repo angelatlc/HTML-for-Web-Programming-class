@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 08<title>
+</head>
+
+<!-- Display an image that has a border of size 2, a width of 200, and a height of 200. -->
+
+
+<body>
+
+<br>
+<br>
+<img src="https://www.lifewire.com/thmb/Fu49qYzwILx4IE-rSvICLLsCo60=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/doge-5b030bb6a474be0037aad803.jpg" width=200px height=200px border=2px>
+
+</body>
+
+
+<html>

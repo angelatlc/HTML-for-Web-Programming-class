@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 10<title>
+</head>
+
+<!-- Display an image that when clicked will link to a search engine of your choice (should be opened in a new window) -->
+
+
+<body>
+
+<p>Click on the logo to go to google search engine.<p>
+ 
+<a href="https://www.google.com/" target="_blank"><img src="https://maxcdn.icons8.com/app/uploads/2016/10/Google-logo-1998.png" ></a>
+
+
+</body>
+
+
+<html>

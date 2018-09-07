@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 09<title>
+</head>
+
+<!-- Display an image that when clicked will link to itself and will display the image in the browser by itself -->
+
+<body>
+
+<p>Click on the image below to see it alone.</p>
+<a href="https://www.lifewire.com/thmb/fTln-QeIbBln-bpLSP9ps4JJPhs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/184074270-56a6a46a5f9b58b7d0e41b68.jpg"><img src="https://www.lifewire.com/thmb/fTln-QeIbBln-bpLSP9ps4JJPhs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/184074270-56a6a46a5f9b58b7d0e41b68.jpg" width="50%" height="auto"></a>
+
+</body>
+
+
+<html>

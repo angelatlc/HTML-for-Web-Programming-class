@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+<title>Requirement 04<title>
+</head>
+
+<!-- Create an HTML document that displays two addresses in the same format used on the front of envelopes (senders address in top left corner, receivers address in the center). Like the following
+Dilbert H.
+1234 Anim Street
+P.O. Box 22222
+			Someone A. Person
+			5555 Street Avenue
+			Metrpolitan, Metropolis 11111
+-->
+
+
+<body>
+
+<p>Dilbert H.</p>
+<p>1234 Anim Street</p>
+<p>P.O. Box 22222</p>
+<br/>
+<p align="center">Someone A. Person</p>
+<p align="center">5555 Street Avenue</p>
+<p align="center">Metrpolitan, Metropolis 11111</p>
+
+</body>
+
+
+<html>
